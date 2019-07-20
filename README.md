@@ -1,15 +1,17 @@
 # shipt-api
 
-Instruction:
-Install homebrew or any other utility to get python(
-https://docs.python-guide.org/starting/install3/osx/)
+**Instruction:**
 
-If installing through homebrew then type brew install python
+Pre-condition: Open Terminal
 
-download pycharm community version
-Navigate to project file
-pip3 install -r requirements.txt
+Executing instructions:
+Step 1: Install homebrew 
+Step 2: brew install python (which install latest python version)
+Step 3: Navigate to project file (where you have downloaded/saved it)
+Step 4: pip3 install -r requirements.txt
+Steps 5: To Run tests pytest test_restfull_swapico.py 
 
-Run tests
+Optional: Option to enable logs on console 
 pytest --capture=no 
 
+Optional: Download Pycharm community version to make any code edits
