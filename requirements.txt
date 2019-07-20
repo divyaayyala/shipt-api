@@ -1,0 +1,5 @@
+assertpy>=0.14
+requests>=2.21.0
+pytest>=4.2.0
+jsonschema==3.0.1
+simplejson==3.10.0
